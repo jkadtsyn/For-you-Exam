@@ -1,5 +1,6 @@
 #!groovy
 //  groovy Jenkinsfile
+// qweqweqweqe
 properties([disableConcurrentBuilds()])
 
 pipeline  {
